@@ -10,7 +10,7 @@ When creating a new post, make sure to choose the predetermined category that be
 
 ## Making suggestions
 
-We encourage you to [open a discussion](https://github.com/orgs/community/discussions) if you have suggestions for how we can improve our products. You don't need to have a solution to the problem you are facing to kick off a discussion. We hope to foster productive and collaborative conversations.
+We encourage you to [open a discussion](https://github.com/orgs/ProduceLinc-Community/discussions) if you have suggestions for how we can improve our products. You don't need to have a solution to the problem you are facing to kick off a discussion. We hope to foster productive and collaborative conversations.
 
 Prior to creating a new discussion, please take a look at previous discussions to see if someone else has already shared your suggestion(s). If you find a similar discussion, reply with additional details or upvote the discussion to signal your support rather than creating a new one.
 
@@ -18,7 +18,7 @@ Prior to creating a new discussion, please take a look at previous discussions t
 
 Once you kick off a discussion, the ProduceLinc product team will evaluate the feedback but will not be able to respond to every submission. From there, we will work with you, and the entire community, to ensure we understand the current capabilities ProduceLinc doesn’t have and explore the space for potential solutions to your problem statement:
 
-- If the product team determines that we are going to prioritize a feature to solve the problem you've identified, we may open an issue and track its development in the [public roadmap](https://github.com/orgs/Linc-Community/projects/3).
+- If the product team determines that we are going to prioritize a feature to solve the problem you've identified, we may open an issue and track its development in the [public roadmap](https://github.com/orgs/ProduceLinc-Community/projects/3).
 - If the product team determines that we will not be working to solve the problem you have identified, we may comment on the discussion describing our reasoning so our decisions can remain transparent.
 
 ## Disclaimer
