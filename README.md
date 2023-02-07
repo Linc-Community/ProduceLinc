@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/12632493/217146111-745405bc-8766-4000-925a-35ae4c0c2c5e.png" alt="logo" height="100"/>
+
 # ProduceLinc Community Discussions
 
 In this repository, you will find categories for various product areas. Feel free to share feedback, discuss topics with other community members, or ask questions.
