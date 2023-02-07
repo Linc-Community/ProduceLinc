@@ -10,7 +10,7 @@ When creating a new post, make sure to choose the predetermined category that be
 
 ## Making suggestions
 
-We encourage you to [open a discussion](https://github.com/orgs/ProduceLinc-Community/discussions) if you have suggestions for how we can improve our products. You don't need to have a solution to the problem you are facing to kick off a discussion. We hope to foster productive and collaborative conversations.
+We encourage you to [open a discussion](https://github.com/ProduceLinc-Community/Roadmap/discussions) if you have suggestions for how we can improve our products. You don't need to have a solution to the problem you are facing to kick off a discussion. We hope to foster productive and collaborative conversations.
 
 Prior to creating a new discussion, please take a look at previous discussions to see if someone else has already shared your suggestion(s). If you find a similar discussion, reply with additional details or upvote the discussion to signal your support rather than creating a new one.
 
