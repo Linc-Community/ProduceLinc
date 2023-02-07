@@ -18,7 +18,7 @@ Prior to creating a new discussion, please take a look at previous discussions t
 
 Once you kick off a discussion, the ProduceLinc product team will evaluate the feedback but will not be able to respond to every submission. From there, we will work with you, and the entire community, to ensure we understand the current capabilities ProduceLinc doesn’t have and explore the space for potential solutions to your problem statement:
 
-- If the product team determines that we are going to prioritize a feature to solve the problem you've identified, we may open an issue and track its development in the [public roadmap](https://github.com/linc-community/producelinc).
+- If the product team determines that we are going to prioritize a feature to solve the problem you've identified, we may open an issue and track its development in the [public roadmap](https://github.com/orgs/Linc-Community/projects/3).
 - If the product team determines that we will not be working to solve the problem you have identified, we may comment on the discussion describing our reasoning so our decisions can remain transparent.
 
 ## Disclaimer
