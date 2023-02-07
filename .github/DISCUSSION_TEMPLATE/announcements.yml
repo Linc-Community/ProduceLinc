@@ -1,11 +1,1 @@
-body:
-- type: markdown
-  attributes:
-    value: "Please use the ideas category to submit feedback or new feature requests"
-- type: checkboxes
-  attributes:
-    label: Check that box!
-    options:
-      - label: This one!
-        required: true
-      - label: I won't stop you if you check this one, too    
+
