@@ -1,6 +1,15 @@
-name: Copy Issue to Repo
-uses: supdegrave/issue-copy-action@v1.1.0
-with:
-  keyword: "/copy"
-  targetRepository: lincza/Linc-Test-Repository
-  githubToken: ${{ secrets.GITHUB_TOKEN }}
+name: Copy Issue
+
+on: 
+  issue_comment:
+
+jobs:
+  copyIssue:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Copy Issue to Repo
+        uses: supdegrave/issue-copy-action@v1.1.0
+        with:
+          keyword: "/copy"
+          targetRepository: lincza/Linc-Test-Repository
+          githubToken: ${{ secrets.COPY_TOKEN }}
