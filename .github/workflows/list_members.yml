@@ -1,0 +1,18 @@
+name: Generate Members List
+
+on:
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    name: Action to update the member's list
+    steps:
+      - name: Member List
+        id: list-members
+        uses: RITct/members-list-action@main
+        with:
+          org-name: <organization-name>
+          file-path: 'members.json'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
