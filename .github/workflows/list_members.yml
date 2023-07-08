@@ -4,15 +4,16 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate:
+  member-email-report:
     runs-on: ubuntu-latest
-    name: Action to update the member's list
+
     steps:
-      - name: Member List
-        id: list-members
-        uses: RITct/members-list-action@main
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Get member emails
+        uses: nicklegan/github-org-member-email-action@v2.0.0
         with:
-          org-name: producelinc-community
-          file-path: 'members.json'
-        env:
-          GITHUB_TOKEN: ${{ secrets.COPY_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
+          org: producelinc-community
+          json: 'true'
