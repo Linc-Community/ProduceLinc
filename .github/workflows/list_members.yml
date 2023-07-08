@@ -12,7 +12,7 @@ jobs:
         id: list-members
         uses: RITct/members-list-action@main
         with:
-          org-name: <organization-name>
+          org-name: producelinc-community
           file-path: 'members.json'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
